@@ -1,4 +1,4 @@
-# Intelligent Sentiment Detection Engine
+# Intelligent Sentiment Detection Engine 
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-red?style=flat-square)](https://streamlit.io/)

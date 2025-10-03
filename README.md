@@ -70,12 +70,12 @@ This project automates sentiment detection to:
 
 Steps followed:
 
-✅ Removed punctuation, special symbols, and emojis.  
-✅ Tokenized sentences into words.  
-✅ Lemmatized words to their base form.  
-✅ Removed stopwords for noise reduction.  
-✅ Handled missing and duplicate entries.  
-✅ Balanced the dataset using SMOTE/undersampling techniques.  
+I. Removed punctuation, special symbols, and emojis.  
+II. Tokenized sentences into words.  
+III. Lemmatized words to their base form.  
+IV. Removed stopwords for noise reduction.  
+V. Handled missing and duplicate entries.  
+VI. Balanced the dataset using SMOTE/undersampling techniques.  
 
 ---
 
